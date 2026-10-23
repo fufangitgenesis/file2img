@@ -4,6 +4,7 @@ PixelVault is a local-first, zero-backend web application that encapsulates arbi
 
 Every generated PNG embeds a versioned cryptographic container format in its RGB pixel stream, complete with Header CRC-32, Chunk Payload CRC-32, and Whole-File SHA-256 integrity verification.
 
+Build with Google AI Studio
 ---
 
 ## Key Features
